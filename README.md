@@ -1,8 +1,8 @@
 # Online_retail_sql_analysis
 
 ### Project Overview
-This project involves using POSTGRESQL to create a database, clean and analyze an online retail store dataset
-The dataset is the Online Retil Dataset from Kaggle
+This project involves using POSTGRESQL to create a database, clean and analyze an online retail store dataset 
+The dataset is the Online Retail Dataset from Kaggle
 
 ## Processes
 
