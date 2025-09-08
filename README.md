@@ -22,7 +22,7 @@ The dataset is the Online Retil Dataset from Kaggle
 ### Analysis
 The following analysis were carried out on the dataset
 
-- Sales performance analysis
+#### Sales performance analysis
 - What is the total revenue?
 - TOTAL NO OF CUSTOMERS
 - TOTAL NO OF COMPLETED TRANSACTIONS
@@ -35,15 +35,15 @@ The following analysis were carried out on the dataset
 - What is the monthly sales trend?
 - Which countries generate the most sale?
 
-- Product Analysis
+#### Product Analysis
 - What are the top 10 best-selling products by number of sales?
 - What are the top 10 worst-selling products by number of sales?
 - What are the top 10 best-selling products by revenue?
 
-- Customer Analysis
+#### Customer Analysis
 - Who are the top 10 spending customers?
 
-- non products analysis
+#### non products analysis
 - Total cost/revenue per description
 - Net impact by customer/country
 - Monthly trend of adjustments
